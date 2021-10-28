@@ -1,0 +1,61 @@
+body{
+	background: #FFF1D6 url(imagens/ruido.jpg);
+   
+
+   font-family: verdana,sans-serif;
+   line-height: 1.6;
+}
+
+a{
+text-decoration: none;
+}
+
+.container{
+
+margin: 0 auto;
+width: 960px;
+}
+
+.local{
+border-color: #ccc #999 #999 #ccc;
+border: 1px solid #ccc;
+padding: 10px;
+margin-bottom: 20px;
+background: #fff;
+
+}
+.local h2{
+
+border-bottom: 1px dashed #7E9f19;
+margin: 0;
+
+}
+  .local a{
+
+      color:royalblue;
+
+     }
+ h1 a: hover{
+
+      
+    text-decoration: none;
+    background-color: #7e9f19;
+      color: #FFF;
+}
+
+.local img{
+
+   border: 2px solid blue;
+   float :left;
+   padding: 2px;
+   margin: 10 10 0 0;
+
+
+
+}
+
+  
+
+
+
+
