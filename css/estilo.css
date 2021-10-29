@@ -13,7 +13,8 @@ text-decoration: none;
 .container{
 
 margin: 0 auto;
-width: 960px;
+width: 990px;
+
 }
 
 .local{
@@ -49,13 +50,64 @@ margin: 0;
    float :left;
    padding: 2px;
    margin: 10 10 0 0;
-
-
-
 }
 
-  
+  h1 a{
+     text-decoration: none;
+      color: #7E9F19;
+    }
 
 
+    h1 a:hover{
+      background-color: #7E9F19;
+     color :#fff
 
+    }
 
+      img{
+       
+       border :1px solid greenyellow;
+       float: left;
+       margin: 10px 10px 0 0;
+       padding: 2px;
+      }
+
+      .clear{
+
+        clear: both;
+
+      }
+
+      .footer{
+       font-size: 14px;
+       text-align: center;
+        color: gold;
+        float: clear;
+      }
+
+      .barralateral{
+     margin-top: 40px;
+     background-color: #FFFBe4;
+     border :1px solid greenyellow;
+     padding :10px;
+      }
+
+      .barralateral h3{
+         margin-top: 0;
+        font-size: 14px;
+      }
+
+      .barralateral ol{
+        font-size: 12px;
+
+      }
+
+       .content{
+         width: 660px;
+         float: left;
+       }
+
+      .barralateral{
+        width: 260px;
+        float: right;
+      }
